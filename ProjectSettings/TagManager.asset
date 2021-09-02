@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - nav
+  - callibration
+  - destination
+  - ManipulationSystem
+  - Indicator
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Callibration
+  - Water
+  - UI
+  - PostProcessing
+  - Player
+  - Map
+  - Destination
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
